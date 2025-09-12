@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e8ccf0a-717b-4240-b227-551c76486b10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/AdminScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/AdminScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/ClubsScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/ClubsScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/EventScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/EventScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/FeedScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/FeedScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/ProfileScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/ProfileScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/navigation/AppNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/navigation/ClubDetailScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/navigation/ClubsStack.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/navigation/FeedStack.tsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="31zuu6Z5i0WfJMqkQkJr3WAI2Kp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e8ccf0a-717b-4240-b227-551c76486b10" name="Changes" comment="" />
+      <created>1756539444435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756539444435</updated>
+      <workItem from="1756539445441" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
