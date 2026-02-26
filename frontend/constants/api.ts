@@ -1,11 +1,11 @@
-import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import axios from 'axios';
 
 // =================================================================
 // !! IMPORTANT !!
 // Replace with your computer's IP address.
 // =================================================================
-export const API_HOST_URL = 'http://192.168.1.45:8080'; // <-- REPLACE IP
+export const API_HOST_URL = 'http://10.150.232.217:8080'; // <-- REPLACE IP
 // =================================================================
 
 // Create a global Axios instance
